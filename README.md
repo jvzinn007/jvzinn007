@@ -1,6 +1,2 @@
-- 👋 ola meu nome e João 
-- 👀 eu estou interesado em aprender a  emprogamar novas linguagem
-- 🌱 eu estou aprendendo a progamar recentemente a linguagem de javascript e scrath
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
+Primeiro-Repositorio
