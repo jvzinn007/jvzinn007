@@ -1,5 +1,5 @@
-- 👋 ola meu nome e jotta
-- 👀 eu estou interesado em aprendera  emprogamar novas linguagem
+- 👋 ola meu nome e João 
+- 👀 eu estou interesado em aprender a  emprogamar novas linguagem
 - 🌱 eu estou aprendendo a progamar recentemente a linguagem de javascript e scrath
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
